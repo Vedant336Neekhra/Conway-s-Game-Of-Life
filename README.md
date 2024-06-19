@@ -5,4 +5,5 @@ The actual game - https://playgameoflife.com/
 2. Reset everything by pressing 'q'.
 3. Pause the simulation with the spacebar and unpause using the same (cells turn red if the simulation is paused). Initially in a paused state.
 4. Run the simulation in a continuous manner or in steps by pressing 'c' (initially in a continuous state).
-5. If going by steps then use right arrow ey to move further. 
+5. If going by steps then use right arrow ey to move further.
+6. I have also added the zoom in, zoom out and dragging features. 
